@@ -1,6 +1,6 @@
 package edu.osucascades.cs492.fixme;
 
-public class question {
+public class Question {
 
     private int mTextResId;
     private boolean mAnswerTrue;
